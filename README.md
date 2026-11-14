@@ -42,13 +42,6 @@ NumPy | Pandas | Scikit-learn | Ultralytics YOLO
 
 Git | GitHub | VS Code | Postman | pgAdmin
 
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrubamarik&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubamarik&layout=compact&theme=tokyonight)
-
 ---
 
 **Always learning. Always building.** 🚀
